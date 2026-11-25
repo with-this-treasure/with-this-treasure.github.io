@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://with-this-treasure.github.io/sitemap.xml
